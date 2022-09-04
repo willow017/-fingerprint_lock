@@ -11,7 +11,7 @@
 ![正面](https://github.com/willow017/fingerprint_lock/blob/main/1.png)   
 ![反面](https://github.com/willow017/fingerprint_lock/blob/main/0.png)  
 ### 主要功能  
-　　主要实现了指纹注册、指纹验证、查看指纹个数、删除指纹、清除所有指纹
+　　主要实现了指纹注册、指纹验证、查看指纹个数、删除指纹、清除所有指纹、身份识别
 ### 技术栈  
 　　stm32、usart、中断
 ### 硬件接口
