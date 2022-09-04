@@ -1,4 +1,4 @@
-# 基于stm32的指纹锁识别系统:lock_with_ink_pen:  
+# 基于stm32的指纹锁识别系统:closed_lock_with_key:  
   该项目采用了stm32和海凌科的HLK-ZW651半导体指纹模块  
   官方资料：[HLK-ZW651用户使用手册（7Pin）](https://github.com/willow017/fingerprint_lock/blob/main/HLK-ZW651%E7%94%A8%E6%88%B7%E4%BD%BF%E7%94%A8%E6%89%8B%E5%86%8C%EF%BC%887Pin%EF%BC%89.pdf)  
   指纹识别相关代码：[指纹模块](https://github.com/willow017/fingerprint_lock/blob/main/User/usart.c)
