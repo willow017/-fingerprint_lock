@@ -1,5 +1,6 @@
 # 基于stm32的指纹锁识别系统  
   该项目采用了stm32和海凌科的HLK-ZW651半导体指纹模块
+  官方资料：[HLK-ZW651用户使用手册（7Pin）](https://github.com/willow017/fingerprint_lock/blob/main/HLK-ZW651%E7%94%A8%E6%88%B7%E4%BD%BF%E7%94%A8%E6%89%8B%E5%86%8C%EF%BC%887Pin%EF%BC%89.pdf)
   
 ### 指纹模块简介
 　　HLK-ZW651半导体指纹模块是集成了半导体传感器和指纹算法芯片为一体化指纹处理模块，具有体积小、功耗低、接口简单等特点，模块可靠性高、干湿手指适应性好，指纹搜索速度快。  
