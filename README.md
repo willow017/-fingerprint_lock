@@ -12,10 +12,10 @@
 ### 技术栈  
 　　stm32、usart、中断
 ### stm32f103rc与海凌科HLK-ZW651指纹模块连线表
-引脚名     　　          stm32F103RC芯片IO口  
+　引脚名     　　          stm32F103RC芯片IO口  
 VCC3_3V           　　             3V3  
 INT_OUT            　　            PB1  
 MCU3_3V              　　          3V3  
 TTL_TXD               　　         PA3  
 TTL_RXD                　　        PA2  
-GND                  　　          GND  
+　GND                  　　          GND  
