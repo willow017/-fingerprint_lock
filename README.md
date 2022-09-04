@@ -5,6 +5,6 @@
 　　HLK-ZW651半导体指纹模块是集成了半导体传感器和指纹算法芯片为一体化指纹处理模块，具有体积小、功耗低、接口简单等特点，模块可靠性高、干湿手指适应性好，指纹搜索速度快。  
 　　指纹图像读取时，对干湿手指都有灵敏的反应和判断，能获得最佳的成像质量，适用人群广泛。 具备自学习功能，实际使用过程中越用越好用。  
 　　HLK-ZW651 模块还具备感应手指功能，当手指按压到指纹采集面时，模块 Touch 脚输出高电平。 HLK-ZW651 模块通讯接口为 UART 接口, 本模块作为从设备，由主设备发送相关命令对其进行控制。该模块具有可调节的安全等级功能、指纹特征数据的读/写功能。
- ![png](https://github.com/willow017/fingerprint_lock/blob/main/6ZGT(Z~Q1%60UJX%24X(ZJ%5DTW3D.png) ![png](https://github.com/willow017/fingerprint_lock/blob/main/H7_A_U((R%25U5OVL98%7B6A9PH.png)  
+ ![png](https://github.com/willow017/fingerprint_lock/blob/main/6ZGT(Z~Q1%60UJX%24X(ZJ%5DTW3D.png)![png](https://github.com/willow017/fingerprint_lock/blob/main/H7_A_U((R%25U5OVL98%7B6A9PH.png)  
 ### 主要功能  
 　　主要实现了指纹注册、指纹验证、查看指纹个数、删除指纹、清除所有指纹
